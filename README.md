@@ -7,7 +7,7 @@
 
 最新版本號：V1.0<br>
 
-最新下載網址：https://drive.google.com/open?id=1Mf6ejdLdrAgKuBwUGhxx4WE4ebsHDh0C<br>
+最新下載網址：https://drive.google.com/open?id=1v6kzAh69x4WDZqbNf6axrMSHCcOaMVWT<br>
 
 
 使用方法：<br>
