@@ -5,9 +5,9 @@
 @還有一些溫馨小提醒<br>
 @自己就可以檢查，不用下班再接到電話說要修改囉！(讚讚讚)<br>
 
-最新版本號：V1.0<br>
+最新版本號：V1.1<br>
 
-最新下載網址：https://drive.google.com/open?id=1v6kzAh69x4WDZqbNf6axrMSHCcOaMVWT<br>
+最新下載網址：https://drive.google.com/open?id=1eEBA0z-QJsNHhkBjnR4Z9alrnM2dCWge<br>
 
 
 使用方法：<br>
