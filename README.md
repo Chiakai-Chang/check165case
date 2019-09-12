@@ -5,10 +5,13 @@
 @還有一些溫馨小提醒<br>
 @自己就可以檢查，不用下班再接到電話說要修改囉！(讚讚讚)<br>
 
-最新版本號：V1.1<br>
+最新版本號：V1.2<br>
 
-最新下載網址：https://drive.google.com/open?id=1eEBA0z-QJsNHhkBjnR4Z9alrnM2dCWge<br>
+最新下載網址：https://drive.google.com/open?id=1wfbCa9T5Ay_cd6iA0wY1De5iAHjHOIUj<br>
 
+通用版版最新下載網址：https://drive.google.com/open?id=12ee8aTCq64lvHOSgjtSK4aLPv2ONRXSP<br>
+
+烏日分局專屬版最新下載網址：https://drive.google.com/open?id=1wfbCa9T5Ay_cd6iA0wY1De5iAHjHOIUj<br>
 
 使用方法：<br>
 
