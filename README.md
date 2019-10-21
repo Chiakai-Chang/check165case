@@ -5,13 +5,20 @@
 @還有一些溫馨小提醒<br>
 @自己就可以檢查，不用下班再接到電話說要修改囉！(讚讚讚)<br>
 
-最新版本號：V1.2<br>
+最新版本號：V1.5<br>
 
-最新下載網址：https://drive.google.com/open?id=1wfbCa9T5Ay_cd6iA0wY1De5iAHjHOIUj<br>
+更新說明：
+@#終於將程式及圖檔打包成一個檔案，直接下載就可以使用，不須解壓縮<br>
+@#原本因「案情描述」等填輸資料較多時，會造成pdf檔大於2頁，導致程式無法正常讀取的問題，已修正<br>
+@#增加最近署公文針對某些特定超商以「店長授權機制」突破「單日販售遊戲點數額度」，受理是類案件之注意事項提出提醒<br>
+@#增加受理解除分期付款案件時，冒用機構需填寫電商業者名稱等提醒<br>
+@#修復一些錯誤連結，優化部分顯示<br>
 
-通用版版最新下載網址：https://drive.google.com/open?id=12ee8aTCq64lvHOSgjtSK4aLPv2ONRXSP<br>
+最新下載網址：https://drive.google.com/file/d/1ZFTvwokwfLkfmfEMb0zohlQTA1enAsZx/view?usp=sharing<br>
 
-烏日分局專屬版最新下載網址：https://drive.google.com/open?id=1wfbCa9T5Ay_cd6iA0wY1De5iAHjHOIUj<br>
+通用版版最新下載網址：https://drive.google.com/file/d/1RDSmQbgKtTW2uld1YcRCD_jJKSc3L2nA/view?usp=sharing<br>
+
+烏日分局專屬版最新下載網址：https://drive.google.com/file/d/1ZFTvwokwfLkfmfEMb0zohlQTA1enAsZx/view?usp=sharing<br>
 
 使用方法：<br>
 
