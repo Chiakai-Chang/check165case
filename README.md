@@ -34,5 +34,10 @@
 * 修復一些錯誤連結，優化部分顯示
 
 ## 受理詐欺參考資料
+* 新165反詐騙平臺系統-操作教育訓練資料 jiao165: https://drive.google.com/file/d/1kM1rt3aXN34mtN8UUrNtfo3mxtxMeXe6/view?usp=sharing
 * 165反詐騙「詐騙手法」→關於(其他)案類填寫方式一覽表 elseHow2: https://drive.google.com/file/d/1PKt8wxy-Z5oM1kJa7BFewhv525DD_yZH/view?usp=sharing
 * 165反詐騙諮詢專線「詐騙手法」正確勾選方式一覽表 rightFill: https://drive.google.com/file/d/1_hJIn4lpyiqWBCLQWQg8waAdLLtsBa9p/view?usp=sharing
+* 一頁式購物廣告及幽靈包裹建議處置程序、國內主要宅配業者及報關行聯繫方式 onePage: https://drive.google.com/file/d/1UZQFmGSE7F5DCwt0aWZ4wp4ePxrCfOpY/view?usp=sharing
+* 公路總局各區監理所（站）聯絡電話 jianliTel: https://drive.google.com/file/d/1bMifH3mAR86EJjDlrPBGui-mFF6EK7aS/view?usp=sharing
+* 凍結帳戶投單說明 toudan: https://drive.google.com/file/d/1fkFBsM2YUf_0N96NkSWV0ZTcLzvF8RCA/view?usp=sharing
+* 警察機關辦理反詐騙工作獎懲規定 jiang: https://drive.google.com/file/d/1tyJUzQL0bQdynGG8YY8WhZ7eCki5uz3q/view?usp=sharing
