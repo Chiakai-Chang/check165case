@@ -34,5 +34,5 @@
 * 修復一些錯誤連結，優化部分顯示
 
 ## 受理詐欺參考資料
-* 165反詐騙「詐騙手法」→關於(其他)案類填寫方式一覽表 elseHow2:https://drive.google.com/file/d/1PKt8wxy-Z5oM1kJa7BFewhv525DD_yZH/view?usp=sharing
-* 165反詐騙諮詢專線「詐騙手法」正確勾選方式一覽表 rightFill:https://drive.google.com/file/d/1_hJIn4lpyiqWBCLQWQg8waAdLLtsBa9p/view?usp=sharing
+* 165反詐騙「詐騙手法」→關於(其他)案類填寫方式一覽表 elseHow2: https://drive.google.com/file/d/1PKt8wxy-Z5oM1kJa7BFewhv525DD_yZH/view?usp=sharing
+* 165反詐騙諮詢專線「詐騙手法」正確勾選方式一覽表 rightFill: https://drive.google.com/file/d/1_hJIn4lpyiqWBCLQWQg8waAdLLtsBa9p/view?usp=sharing
