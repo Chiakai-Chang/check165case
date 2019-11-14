@@ -47,3 +47,5 @@
 * 一頁式購物廣告及幽靈包裹建議處置程序、國內主要宅配業者及報關行聯繫方式 onePage: https://drive.google.com/file/d/1UZQFmGSE7F5DCwt0aWZ4wp4ePxrCfOpY/view?usp=sharing
 * 公路總局各區監理所（站）聯絡電話 jianliTel: https://drive.google.com/file/d/1bMifH3mAR86EJjDlrPBGui-mFF6EK7aS/view?usp=sharing
 * 警察機關辦理反詐騙工作獎懲規定 jiang: https://drive.google.com/file/d/1tyJUzQL0bQdynGG8YY8WhZ7eCki5uz3q/view?usp=sharing
+* 受理涉及香港帳戶
+* 「受理涉及香港帳戶詐騙案緊急攔阻表格」 stopHKacc: https://drive.google.com/file/d/1KS72R66HwA2uCREMAoZxS0ng0AIRgVih/view?usp=sharing
