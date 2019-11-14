@@ -37,7 +37,13 @@
 * 新165反詐騙平臺系統-操作教育訓練資料 jiao165: https://drive.google.com/file/d/1kM1rt3aXN34mtN8UUrNtfo3mxtxMeXe6/view?usp=sharing
 * 165反詐騙「詐騙手法」→關於(其他)案類填寫方式一覽表 elseHow2: https://drive.google.com/file/d/1PKt8wxy-Z5oM1kJa7BFewhv525DD_yZH/view?usp=sharing
 * 165反詐騙諮詢專線「詐騙手法」正確勾選方式一覽表 rightFill: https://drive.google.com/file/d/1_hJIn4lpyiqWBCLQWQg8waAdLLtsBa9p/view?usp=sharing
+* 凍結帳戶投單說明 toudan: https://drive.google.com/file/d/1fkFBsM2YUf_0N96NkSWV0ZTcLzvF8RCA/view?usp=sharing
+* ---假網拍類型---
+* 查詢臉書ID、詐騙貼文流程 fBhow2: https://drive.google.com/file/d/1CB-Slmvk6HUU8RfzrpCpaVX0RuzXuODs/view?usp=sharing
+* 查詢IG頁面範例 iGhow2: https://drive.google.com/file/d/12ZoqbvKQihkNOc16HddIXS6FlxTa_FDE/view?usp=sharing
+* BOOKING找尋序號方法 bookHow: https://drive.google.com/file/d/1Y58_DDLNr3IujjAqAwRpymytjueNnkl7/view?usp=sharing
+* 受理「貨到付款詐騙」暨爭議案件，應拍攝民眾所收包裹上「寄送資訊服務單」，並至165反詐騙系統平臺以「筆錄附件」方式上傳PDF檔，俾利彙整提供財政部關務署進行調查 
+* 請清楚拍攝包裹上「寄送資訊服務單」所有訊息 huodaoPay: https://drive.google.com/file/d/1YY4jHw-i1RVu4eF0vf6pCeg0T3youzAj/view?usp=sharing
 * 一頁式購物廣告及幽靈包裹建議處置程序、國內主要宅配業者及報關行聯繫方式 onePage: https://drive.google.com/file/d/1UZQFmGSE7F5DCwt0aWZ4wp4ePxrCfOpY/view?usp=sharing
 * 公路總局各區監理所（站）聯絡電話 jianliTel: https://drive.google.com/file/d/1bMifH3mAR86EJjDlrPBGui-mFF6EK7aS/view?usp=sharing
-* 凍結帳戶投單說明 toudan: https://drive.google.com/file/d/1fkFBsM2YUf_0N96NkSWV0ZTcLzvF8RCA/view?usp=sharing
 * 警察機關辦理反詐騙工作獎懲規定 jiang: https://drive.google.com/file/d/1tyJUzQL0bQdynGG8YY8WhZ7eCki5uz3q/view?usp=sharing
