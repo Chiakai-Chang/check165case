@@ -34,3 +34,4 @@
 * 修復一些錯誤連結，優化部分顯示
 
 ## 受理詐欺參考資料
+165反詐騙「詐騙手法」→關於(其他)案類填寫方式一覽表:https://drive.google.com/file/d/1PKt8wxy-Z5oM1kJa7BFewhv525DD_yZH/view?usp=sharing
