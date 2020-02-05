@@ -5,13 +5,13 @@
 因內政部警政署持續每日審核各單位受理詐欺案填輸165紀錄表情形。鑒於受理「詐騙案件」欄位填輸需注意之項目眾多，同仁難免疏漏。以往純人工審核時，常常遇到同仁深夜受理後，早上分局、局或署稽核時，還不得已要將同仁自睡窩中吵醒的窘境。為減輕同仁困擾、協助同仁在受理詐欺案後，能夠自行先簡易確認所填輸資料是否符合內政部警政署之要求，因而特別設計：「審核165案件小幫手」程式！提供同仁受理後，自行將所填輸之紀錄表PDF檔提交程式協助初審，並依據程式建議之更補正項目自行初步完成更補正(更進一步者，能於完成檢查後，提交所長、分局詐欺承辦人後續進行複式人工審核)，以期將同仁填輸錯誤降至最低。<br>
 再次感謝您的使用。<br>
 
-## 最新版本號：V2.4<br>
+## 最新版本號：V2.5<br>
 
-最新下載網址：https://drive.google.com/file/d/1h15ycH9V028QSd3PizZvO50PJ_wcrgJa/view?usp=sharing<br>
+最新下載網址：https://drive.google.com/file/d/1KZeSNOKaYQxQzUla5i7FxxP74PJU2-2q/view?usp=sharing<br>
 
-通用版版最新下載網址：https://drive.google.com/file/d/1h15ycH9V028QSd3PizZvO50PJ_wcrgJa/view?usp=sharing<br>
+通用版版最新下載網址：https://drive.google.com/file/d/1KZeSNOKaYQxQzUla5i7FxxP74PJU2-2q/view?usp=sharing<br>
 
-烏日分局專屬版最新下載網址：https://drive.google.com/file/d/1h15ycH9V028QSd3PizZvO50PJ_wcrgJa/view?usp=sharing<br>
+烏日分局專屬版最新下載網址：https://drive.google.com/file/d/1KZeSNOKaYQxQzUla5i7FxxP74PJU2-2q/view?usp=sharing<br>
 
 ## 使用方法：<br>
 
@@ -19,6 +19,13 @@
 * 2、將本程式打開，它會請您幫忙找到你所下載的PDF檔在哪。<br>
 * 3、找到以後，它就會告訴您檢查結果啦！<br>
 * 4、最後還可以將受理情形，透過本程式線上提交給所長、詐欺業務承辦人後續人工審查喔！<br>
+
+### V2.5更新說明：
+* 為即時通報攔阻遭詐騙之金融帳戶，警政署109年1月新增「寄送金融卡、存摺」選項，小幫手配合更新檢查相關欄位。
+* 165開的案件，現在也有相關受理重點提醒了！(原本只檢查後續處理情形而已)
+* 從V2.5版開始，有新版本時會提示更新哪些內容！
+* 修正警示帳戶欄位的部分問題。
+* 優化、修改相關小幫手的頁面(太多小細節記不清楚修改哪些)。
 
 ### V2.4更新說明：
 * 修正偶爾三聯單號明明填正確卻報缺號的問題。
